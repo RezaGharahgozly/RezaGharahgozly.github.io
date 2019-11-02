@@ -1,0 +1,24 @@
+
+table {
+    font-style:italic;
+    font-weight:bold;
+    color:blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rating{
+    font-weight:lighter; color: rgba(255, 0, 0, 0.543);
+}
+#idvalue{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: unset;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: chartreuse;
+}
+p{
+    color: darkgray;
+}
